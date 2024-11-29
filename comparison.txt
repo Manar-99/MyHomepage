@@ -1,0 +1,14 @@
+
+Version Comparison:
+
+First version vs Second version :
+
+- Introduced a new section <section> with a heading <h2> "My projects"
+- Added a paragraph and a list of three projects in the section
+- The closing </html> tag is still missing in second version 
+
+
+
+Second version vs Third version :
+
+- Fixed the missing closing </html> tag in second version 
